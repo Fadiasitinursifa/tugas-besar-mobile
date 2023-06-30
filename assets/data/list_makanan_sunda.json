@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "judul": "Tumis kangkung",
+        "bahan": "1 ikat kangkung, 2 bawang merah, 1 bawang putih, 2 cabai merah, 3 cabai rawit, gula, garam, saus tiram, minyak goreng",
+        "cara": "Siangi kangkung dan potong lalu cuci bersih,Rajang cabai dan bawang lalu tumis sampai harum, Masukkan kangkung oseng sebentar lalu tambahkan air, garam, gula dan saos tiram. Masak dgn api besar, Aduk2 sebentar lalu tutup kira2 2menit. Dan matikan kompor, Tumis kangkung siap disantap"
+    },
+    {
+        "id": 2,
+        "judul": "Batagor Bandung",
+        "bahan": "150 gram Daging ayam potong kecil, 200 gram Tapioka, 100 gram Terigu, 3 kotak Tahu putih uk besar potong² bentuk segitiga jdi 16 buah, 1 butir Bawang Bombay besar potong kecil, 4 siung Bawang putih ukuran besar iris², 2 butir Telur ayam ukuran sedang, 3 lonjor Daun bawang potong kecil², Penyedap rasa, 1/2 sdm garam, lada bubuk",
+        "cara": "Belnder halus ayam Telur Bombay bawang putih Royco garam bawang goreng dan potongan daun bawang, Setalah halus tuang kewadah campurkan tapioka sedikit² lalu terigu sedikit² gantian trs nuang nya ia Bun lakukan Ampe abis, Setelah tercampur rata Panaskan minyak api sedang cendeurng kecil..lubangi tahu putih sedikit beri adonan lalu goreng sampe matang. Untuk adonan tanpa tahu bentuk mengunakan 2 sendok bentuk bulatan lalu goreng hingga matang lakukan sampe abi, Setalah itu potong² batagor dan tahu beri bumbu kacang kecap potongan timun dan terakhir kasih perasan jeruk sedikit supaya segar, Batagor siap disantap"
+    },
+    {
+        "id": 3,
+        "judul": "Gepuk Daging Sapi",
+        "bahan": "1/2 kg daging sapi, Daun salam, 10 siung Bawang merah, 6 siung Bawang putih, 1 genggam tumbar, 2 cm jahe, 1 cm lengkuas, Asam jawa secukupnya, Penyedap rasa, garam, gula merah",
+        "cara": "haluskan bahan-bahan, Didihkan air, masukan daging sapi yg sdh di bersihkan dan daun salam. Masak 10 - 20 menit angkat tiriskan, Didihkan air, masukan bumbu halus, daun salam dan bumbu rasa, Masukan daging sapi yg sdh dipotong2 masak hingga air menyusut. Angkat, Ambil potongan daging sapi pukul2 dengan pengulek atau alat hingga pipih. Lalu rebus lagi dengan air bekas masak tadi. Tambahkan air 1 gelas.Didihkan lagi hingga air menyusut. Matikan api, Gepuk siap disantap"
+    },
+    {
+        "id": 4,
+        "judul": "Lotek",
+        "bahan": "10 buah kacang panjang dipotong lalu direbus, 200 gram tauge panjang diblaching sebentar dengan air panas, 10 lembar kubis dipotong lalu direbus, 6 siung Bawang putih, 1 buah timun dipotong dadu, 2 buah terong hijau lalap dipotong dadu, 4 sdm kacang tanah digoreng, 1 siung bawang putih, 1 buah cabe rawit merah, 1 ruas kencur, 1/2 sdt terasi goreng, 50 ml air, 1/2 keping gula kelapa, 1/2 sdt garam",
+        "cara": "Haluskan bumbu lotek, lalu beri air, aduk hingga rata, Masukan sayuran di atas sambal lotek, Aduk balik menggunakan spatula, sampai semua bumbu rata, lotek siap disantap"
+    },
+    {
+        "id": 5,
+        "judul": "Sayur Asem",
+        "bahan": "1/2 buah terong, potong-potong, 1/2 buah labu siam, potong-potong, 1/2 buah jagung manis, potong-potong, 1 genggam nangka muda, 1 genggam daun melinjo, 1 genggam buah melinjo, 1 genggam kacang panjang, 1 genggam kacang tanah, 1 sdm gula merah, 700 ml air, 3 sdm air asem jawa, 3 lembar daum salam, 1 ruas jari lengkuas, gula, garam secukupnya, 3 buah cabai merah, buang biji, 2 buah rawit merah, buang biji, 2 butir kemiri, sangrai, 4 buah bawang merah, 2 siung bawang putih, 1 sdt terasi.",
+        "cara": "Cuci bersih semua bahan sayuran, tiriskan, selanjutnya Siapkan panci, rebus terlebih dahulu sayuran yang bertekstur keras nangka muda, terong, labu siam, jagung muda dan buah melinjo sampai empuk atau matang kemudian masukkan bumbu halus, lengkuas, daun salam, air asam jawa, Masukkan kacang panjang dan daun melinjo. Tambahkan gula dan garam secukupnya. Tes rasa, Matikan api. Sayur asem siap disantap."
+    },
+    {
+        "id": 6,
+        "judul": "Karedok",
+        "bahan": "5 buah kacang panjang, iris tipis, 1 buah timun, iris kecil-kecil, 3 lembar kol, iris tipis, 1/2 ons tauge, 2 buah terong bulat, iris kecil-kecil, 1/2 ikat kemangi, 1 ons kacang tanah sangrai, 1 buah cabai merah, 2 buah cabai rawit, Sedikit terasi, 2 ruas kencur, 1/2 siung bawang putih, garam dan gula merah, 1 sdt air asam jawa (optional).",
+        "cara": "Haluskan cabeai terasi, kencur, bawang putih, garam dan gula merah, Lalu tambahkan kacang tanah dan air asam jawa, haluskan dan beri sedikit air jika perlu, Masukkan semua sayur, aduk hingga rata, Sajikan dengan kerupuk."
+    },
+    {
+        "id": 7,
+        "judul": "Pepes Ikan Mas",
+        "bahan": "2 ekor ikan mas, cuci bersih, lumuri air jeruk nipis dan garam, 1 buat tomat, potong kasar, 8 buah cabai rawit utuh, 2 lembar daun salam, 2 lembar daun jeruk, 1 batang daun bawang iris kasar, daun kemangi secukupnya, daun pisang utk membungkus, lidi/tusuk gigi, 8 butir bawang merah, 4 siung bawang putih, 4 buah cabai merah keriting, 3 buah cabai rawit, 3 butir kemiri sangrai, seruas Kunyit, garam dan gula secukupnya.",
+        "cara": "Bumbu halus yang telah diulek campur dengang daun bawang, tomat iris aduk rata, Balurkan ikan mas dengan campuran bumbu. Siapkan 2 lembar daun pisang, beri kemangi, daun salam, daun jeruk, Letakkan ikan diatasnya. Bungkus dan semat dengan lidi, kukus sekitar 30 menit hingga matang, Angkat, menjelang disajikan bakar pepes ikan di atas teflon/arang, Angkat dan sajikan segera."
+    },
+    {
+        "id": 8,
+        "judul": "Nasi Liwet Sunda",
+        "bahan": "6 gelas beras, 1 1/2 sachet kaldu bubuk rasa ayam, 8 siung bawang putih, diiris, 8 siung bawang merah, diiris, 3 batang serai, geprek, 6 lembar daun salam, 5 lembar daun jeruk, 10 cabai rawit merah, 2 papan petai, 100 gr teri medan, goreng kering, garam secukupnya, air secukupnya.",
+        "cara": "Cuci beras seperti biasa, masukkan kaldu bubuk, aduk, sisihkan, Tumis daun salam, daun jeruk, sereh, bawang merah dan bawang putih hingga harum, beri garam secukupnya, Kemudian tambahkan petai dan cabai rawit. Tumis sebentar lalu matikan kompor, Masukkan tumisan bumbu tersebut ke dalam beras beserta minyaknya, beri air selayaknya kita mau masak nasi, aduk, Masak seperti masak nasi biasa, Kalau sudah matang, biarkan sebentar selama 5 menit, lalu aduk nasinya, tutup kembali biarkan selama 5 menit. Taburi dengan teri medan. Nasi liwet siap disajikan."
+    },
+    {
+        "id": 9,
+        "judul": "Nasi Tutug Oncom",
+        "bahan": "Nasi putih hangat, 1 kotak oncom Bandung, 2 bawang merah, 2 bawang putih, 4 cabai merah, 5 cabai rawit merah, 2 cm kencur, garam, terasi, kemangi, lalap, sambel, ikan asin, lauk.",
+        "cara": "Hancurkan oncom, tumbuk agar halus, Tumis bumbu halus dengan minyak bekas goreng ikan asin, Masukkan oncom yang sudah hancur lalu oseng sebentar dan sisihkan, Siapkan nasi hangat, campur dengan oncom secukupnya, Aduk rata dan siap sajikan dengan bahan pelengkap lainnya."
+    },
+    {
+        "id": 10,
+        "judul": "Mie Kocok",
+        "bahan": "400 g mi basah gepeng, siap pakai, cuci, tiriskan, 150 g taoge, buang akarnya, 2 sdm daun bawang iris tipis, 2 sdm bawang goreng, air jeruk limau, sambal cabai rawit, 2 sdm minyak goreng, 8 siung bawang putih, haluskan, 2.5 liter kaldu sapi, 650 g kikil sapi, rebus hingga empuk, potong dadu 2 cm, 6 cm jahe, memarkan, 1 butir biji pala, pecahkan, 1 sdt merica bubuk, 2 sdt garam, 1 sdt gula pasir.",
+        "cara": "Buat kuah terlebih dahulu, panaskan minyak goreng dalam wajan, tumis bawang putih dan jahe sampai harum, angkat, sisihkan, Rebus kaldu sapi ke dalam panci. Masak hingga mendidih, Masukkan kikil, pala, merica, garam, gula, dan tumisan bawang putih. Rebus hingga mendidih. Penyajian: Taruh mi dalam mangkuk saji, tambahkan taoge, siram dengan kuah panas beserta kikil dan sumsumnya, Taburi daun bawang dan bawang goreng. Tambahkan air jeruk limau. Sajikan selagi hangat dengan pelengkap sambal cabai rawit."
+    }
+]

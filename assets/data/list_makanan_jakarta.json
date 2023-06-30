@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "judul": "Pecak Lele",
+        "bahan": "4 ekor ikan lele ukuran sedang,  1 cm kunyit, garam, 2 buah bawang putih, 1 sdt ketumbar, 9 buah bawang merah, air panas secukupnya, 2 cm kencur, 2 cm jahe, 10 buah cabai rawit (sesuai selera), 2 buah jeruk limau, gula",
+        "cara": "Haluskan bawang putih, kunyit, ketumbar, dan garam, Lumuri lele dengan halus, Diamkan selama 30 menit, setelah itu Goreng lele sampai kering, Sangrai bawang merah, jahe, dan kencur hingga matang. Ulek bersama cabai rawit, jangan terlalu halus dan terakhir Tuang air panas sedikit demi sedikit, beri dengan gula dan garam. Aduk rata. Pecak Lele siap untuk disajikan"
+    },
+    {
+        "id": 2,
+        "judul": "Nasi Ulam",
+        "bahan": "2 gelas beras lalu cuci bersih,  1 batang serai (memarkan), 1 tetes minyak goreng, 100 ml santan kelapa, 1 lembar daun salam, garam (secukupnya)",
+        "cara": "Cuci bersih beras, tuangi air 4 gelas. Tuang santan, aduk rata. kemudian Masukkan serai, daun salam, beri dan garam. Aduk rata. Masak nasi seperti biasanya setelah itu Saat proses memasak, usahakan mengaduk beras di dalam rice cooker agar santan rata dan bumbu meresap dengan baik. dan yangvterakhir Tambahkan satu tetes minyak goreng saat beras matang, aduk rata. Nasi Ulam siap untuk disajikan"
+    },
+    {
+        "id": 3,
+        "judul": "Kerak Telor",
+        "bahan": "1 sdt cabai bubuk, 2 siung bawang merah haluskan, 1 butir telur, 1/4 sdt penyedap rasa ayam /sapi, 2 siung bawang putih haluskan, garam dan lada secukupnya, minyak goreng secukupnya, 1/2 sdm ebi sangrai, 1 mangkok kecil nasi, kelapa parut sangkrai/abon ikan/sapi.",
+        "cara": "Masukkan telur kocok lepas, cabai bubuk, bawang merah, bawang putih, royco, garam, dan lada. Kocok hingga tercampur rata. Masukkan nasinya aduk rata lagi. kemudian Goreng seperti telur dadar pada umumnya sampai kering angkat. Tiriskan. dan terakhir Taburi kerak telur dengan ebi sangkrai, kelapa parut atau abon. Potong kerak telurnya sesuai selera. Kerak Telor siap disajikan"
+    },
+    {
+        "id": 4,
+        "judul": "Tauge Goreng",
+        "bahan": "200 gram kacang panjang (potong kecil-kecil sesuai selera), minyak goreng (secukupnya), 150 gram tauge, 1 buah tomat (belah empat), 4 siung bawang putih, 7 buah cabai rawit (iris serong), kaldu ayam bubuk (secukupnya), 7 siung bawang merah, 3 buah cabai merah besar (buang isi, iris serong), 3 cm lengkuas (memarkan), garam dan gula secukupnya.",
+        "cara": "Tumis bumbu yang telah dicincang halus. Beri lengkuas, Masukkan kacang panjang dan masak hingga cukup layu, Masukkan kacang tauge, aduk rata. Beri garam, gula, dan tuang kaldu ayam. Aduk rata, setelah itu Tuang air. Masukkan tomat. Tauge Goreng siap disajikan"
+    },
+    {
+        "id": 5,
+        "judul": "Mie Kangkung",
+        "bahan": "2 keping mie kering, 2 siung bawang putih, terasi secukupnya, 2 ikat kangkung, garam secukupnya, 3 siung bawang merah, 5 buah cabe, merica bubuk secukupnya, kecap manis, minyak goreng.",
+        "cara": "Rebus mie kering. Diamkan sampai matang, tiriskan. kemudian Tumis bawang putih, bawang merah, cabe dan terasi yang sudah dihaluskan. lalu Masukkan kangkung dan mie, aduk rata. Tuang kecap manis, beri merica dan garam. Tuang sedikit air. Tunggu hingga mendidih. Mie kangkung siap disajikan."
+    },
+    {
+        "id": 6,
+        "judul": "Semur Jengkol",
+        "bahan": "1 kg jengkol, rendam agar mudah mengelupas kulitnya, tiriskan, 3 sdm kecap manis, garam, gula, 2 lembar daun salam, minyak goreng, 5 siung bawag putih, 1 sdt merica, 3 butir kemiri, 8 siung bawang merah, 10 buah cabai rawit, 3 buah cabai merah keriting.",
+        "cara": "Potong jengkol atau memarkan saja. Tumis bumbu halus. Masukkan daun jeruk dan daun salam, tumis hingga bumbu matang. Tuang sedikit air. Masukkan jengkol, tuang air kurang lebih 150 ml. Masak hingga air berkurang. Tuang kecap manis, aduk rata."
+    },
+    {
+        "id": 7,
+        "judul": "Lontong sayur betawi",
+        "bahan": " 2 buah labu sam, telur ayam rebus, 1 papan tempe, lontong,  bungkus santan, 5 siung bawang merah, 2 ruas jari jahe, 2 siung bawang putih, 2 siung cabe merah besar, 2 ruas kunyit, 1 ruas lengkuas, 1 batang sereh, 2 lembar daun salam, 2 sdt garam, 1 sdt gula, 1 bungkus kaldu bubuk.",
+        "cara": "Setelah labu dikupas dan di cuci, iris labu dan tempe panjang jangan terlalu tebal. Kupas telur lalu rendam di air. Haluskan bumbu harus bersama sedikit garam. Pisah dengan bumbu yang digeprek. Tumis bumbu halus bersama bumbu geprek. Tuang santan, beri air sedikit-sedikit, diamkan hingga sedikit mendidih. Masukkan labu, tunggu hingga mendidih lagi. Terakhir masukkan tempe dan telur."
+    },
+    {
+        "id": 8,
+        "judul": "Sayur Besan",
+        "bahan": "1 ikat trubuk atau bunga tebu, 1 papan petai, belah dua bijinya, 3 lembar daun salam, 1 bungkus soun, daun bawang, 1 ruas lengkuas, 1 butir kelapa (siparut), 150 gram kentang, 150 gram kembang kol, 500 ml air, 4 siung bawang putih, 10 buah cabai merah keriting (dirubus), 1/2 sdt gula merah, 8 siung bawang merah, 2 sdt ebi, 1 sdt garam, 1 sdm gula pasir.",
+        "cara": "Buat santan dari parutan kelapa. Cuci bersih trubuk, kembang kol, dan kentang. Potong sesuai selera. Cuci cabai merah lalu haluskan bersama bumbu-bumbu haluskan lainnya. Tumis bumbu, masukkan lengkuas dan daun salam memar. Masukkan trubuk, kembang kol, kentang serta bahan lainnya. Masak hingga matang. Tambahkan garam atau penyedap rasa"
+    },
+    {
+        "id": 9,
+        "judul": "Gado-gado betawi",
+        "bahan": "1 buah labu siam (iris panjang), 1 ikat kangkung, 1/4 potong kol, 1 ikat bayam, 1 buah timun, 5 lonjor kacang panjang, 1 bungkus tauge, 200 gram kacangtanah goreng, cabai rawit, gula merah, 2 buah terasi, air panas, 4 siung bawang putih, air asam jawa, tempe goreng, tahu goreng, jeruk limo, bawang goreng, kecap manis, kerupuk.",
+        "cara": "Kukus semua sayuran, sebelum diangkat masukkan tauge. Goreng semua bahan pelengkap, uleg jadi satu semua bahan bumbu kacang. Pindahkan dalam mangkok semua bahan bumbu kacang. Tambahkan gula merah, uleg sampai gula hancur. Tuang air asam jawa dan air panas. Uleg sampai mengental, beri perasan air jeruk limo. Aduk uleg rata. Masukkan semua bahan pelengkap. Tambahkan sayuran secukupnya, aduk rata."
+    },
+    {
+        "id": 10,
+        "judul": "Ayam Sampyok",
+        "bahan": "800 gram dada ayam kampung, butiran wijen secukupnya, daun jeruk 2 lembar, kecap manis pedas gurih (secukupnya), lengkuas 1 ruas(memarkan), air secukupnya, serai 2 batang(memarkan), madu 4 sendok makan, bawang putih 3 siung, margarin secukupnya, daun salam 2 lembar, kunyit 2 ruas, kemiri 4 butir (sangrai), lada 1/2 sendok teh, bawang merah 5 siung, garam 3/4 sendok teh, jahe 1/2 ruas jari, ketumbar 1/2 sendok teh.",
+        "cara": "Haluskan kemiri, bawang putih, bawang merah, garam, kunyit, jahe, lada, dan ketumbar. Potong daging ayam sesuai selera. Lumuri dengan bumbu halus. Rebus potongan ayam, tuang air +- 600 Mililiter. Masukkan daun salam, daun jeruk, 2 batang serai, dan lengkuas, aduk rata. Tutup dan diamkan selama 10 menit. Tuang kecap secukupnya, aduk lagi. Masukkan madu, aduk sebentar, angkat dan sisihkan. Olesi panggangan dengan margarin secukupnya. Masukkan ayam dan panggang hingga matang. Angkat dan letakkan di piring, taburi wijen."
+    }
+]

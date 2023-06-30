@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "judul": "Sate Padang",
+        "bahan": "250 gr daging ayam, 700 ml air, Minyak untuk menumis, 100 gr tepung beras + 50 ml air, 1 lembar daun kunyit, 1 sdm garam, 7 siung bawang merah, 3 siung bawang putih, 10 buah cabe merah, 2 cm kunyit, 1 ruas kecil jahe, 1 ruas kecil lengkuas, 1 buah kapulaga, 1/2 sdt merica bubuk, 1/2 sdm ketumbar, 1/8 sdt jinten, 1 batang sereh, lontong",
+        "cara": "Siapkan bumbu halus. Panaskan minyak lalu tumis bumbu halus. Masukkan daun kunyit dan kapulaga, Tumis hingga bumbu harum. Didihkan air lalu tuang bumbu yang sudah ditumis, lalu masukkan daging ayam, Masukkan garam lalu masak hingga daging matang dan empuk. Lalu angkat ayam jika sudah matang, Lanjut buat kuahnya, tuang larutan tepung beras sambil diaduk. Masak hingga mengental, Potong ayam yang sudah direbus lalu tusuk ke tusukan sate. Panggang diteflon sebentar saja karena sudah matang, Penyajian, susun lontong, ambil beberapa tusuk sate lalu celupkan ke kuah sate. Lalu letakkan disamping lontong, lalu siram kuah diatas lontong dan sate. Beri bawang goreng secukupnya"
+    },
+    {
+        "id": 2,
+        "judul": "Rendang",
+        "bahan": "500 gr daging sapi, 250 gr kentang kecil, 100 gram cabe giling bisa juga tambahkan cabe rawit, 100 gram bawang merah, 4 siung bawang putih, 2 ruas jari jahe, 2 sdm ketumbar, 1 buah pala, 6 buah cengkeh, 100 gr Kelapa gongseng, haluskan dengan ulekan sampai keluar minyak nya1/2 sdm garam, 2 jempol lengkuas, 2 lembar daun kunyit, 5 lembar daun jeruk, 1 batang sereh, 1 bg bunga lawang, 3 buah kapulaga, 3 cm kayu manis",
+        "cara": "Peras kelapa parut dengan air hangat hingga menghasilkan santan. Bersihkan daging dan potong2 sesuai selera. Bersihkan kentang dengan ampas kelapa parut dengan cara digosok2 agar bersih dari tanah yang lengket, Giling bumbu halus, tumis hingga wangi Masukkan bumbu cemplung, daging dan bumbu lainnya, masak hingga wangi, dan bumbu meresap. masukkan santan, Masak sampai menyusut dan masukkan kentang, Masak dengan api kecil sampai kering, Rendang siap disantap"
+    },
+    {
+        "id": 3,
+        "judul": "Asam Padeh Pindang Tongkol",
+        "bahan": "1 ekor kepala kakap dan tulangannya aku, pakai 1 buah pindang tongkol besar potong sesuai selera, 1/2 bh jeruk nipis, ambil airnya, 1 sdm kecap ikan, 2-3 sdm minyak goreng, 250 ml air, Garam, Kaldu ayam bubuk, 6 butir bawang merah, 2 siung bawang putih, 2 butir kemiri, 1 ruas jari kunyit (1 sdt kunyit bubuk), 1 bh cabe merah besar, 2 bh cabe merah keriting, Seiris laos (1/2 sdt Laos bubuk), 1 btg serai, geprek, 2 bh asam kandis, 5 lbr daun jeruk",
+        "cara": "Potong-potong pindang tongkol sesuai selera. Goreng sebentar, Haluskan bumbu, tumis hingga wangi. Tambahkan serai, daun jeruk dan lengkuas, tumis, Tambahkan air, masak hingga mendidih Lalu masukkan pindang tongkol. Bumbui dengan garam dan kaldu ayam bubuk. Koreksi rasa, Asam Padeh siap disantap"
+    },
+    {
+        "id": 4,
+        "judul": "Dendeng Balado",
+        "bahan": "1/4 lebih dikit Daging sapi, 15 cabe merah kriting, 10 cabe rawit, 10 siung bawang merah, 5 lbr daun jeruk, 1-2 sdm air asam jawa, garam, kaldu ayam bubuk, gula merah",
+        "cara": "Daging cuci bersih potong sesuai selera aku agak tebal, rebus sebentar beri garam saja, setelah itu goreng diminyak panas sampe kecoklatan kalo dah siap ya geprek pakai ulekan, tanpa di geprek juga bisa ya, Ulek kasar saja duo cabe dan bawang, Panaskan minyak aku agak banyak ya, lalu tumis bumbu ulek daun jeruk sampe harum, beri sedikit air dan masukan air asam jawa tambah garam dan kaldu sapi (sedikit gula), Masukan daging dan biarkan sampai meresap, Dendeng Balado siap disantap"
+    },
+    {
+        "id": 5,
+        "judul": "Sambal hijau terong + ikan asin jambal",
+        "bahan": "Terong 2 buah, belah, potong-potong, Ikan asin jambal 200 gr, potong, Garam/penyedap, Gula pasir secukupnya, Tomat hijau potong dadu, Cabai hijau 1-2 ons, 10 butir bawang merah, 2 siung bawang putih.",
+        "cara": "Rebus jambal + gula pasir, bilas dan tiriskan, Cuci terong kemudian goreng, begitu juga jambal, tiriskan, Goreng sebentar cabai, bawang merah dan bawang putih kemudian ulek + garam/penyedap kasar, beri perasan air jeruk nipis, Panaskan minyak,masukkan cabai hijau + tomat, aduk dan beri gula pasir, aduk, masukkan jambal aduk, dan kemudian terong, aduk sampai tercampur rata, matikan api dan sajikan."
+    },
+    {
+        "id": 7,
+        "judul": "Ikan siam sambal bawang",
+        "bahan": "1/4 kg ikan gabus/ikan siam, 10 bawang merah, 1 bawang putih, 1 buah bawang bombai, 2 buah tomat, 1 ons cabai setan /rawit merah, 1 ons cabai rawit hijau, Garam (sesuai selera).",
+        "cara": "Cuci bersih ikan siam lalu rendam dengan air panas, cuci lagi dan tiriskan dan goreng, Tumis bawang merah iris, setelah harum masukkan bawang bombai dan bawang putih, setelah bawang layu masukkan duo cabai serta potongan tomat, Bumbui dengan garam dan penyedap, Biarkan sambal dingin dan campurkan dengan ikan yang sudah digoreng."
+    },
+    {
+        "id": 8,
+        "judul": "Gulai daun singkong",
+        "bahan": "Daun singkong direbus dan peras, lalu potong-potong, daun salam, lengkuas, serai, rait utuh, udang kering, teri medan, santan, bawang mera, bawang putih, cabai merah, terasi, kunyit, kemiri.",
+        "cara": "Tumis bumbu halus sampai wangi, baru masukkan ebi aduk, tuang santan encer masukkan daun singkong, penyedap rasa kalau Sudah mendidih, Masukkan santan kental, kecilkan api, aduk terus jangan sampai pecah santannya, aduk sampai mendidih, matikan api dan angkat."
+    },
+    {
+        "id": 9,
+        "judul": "Balado Jengkol",
+        "bahan": "250 gr jengkol, belah dua, 2 buah kentang kupas, potong-potong, 50 gr teri, 1 buah tomat, minyak goreng, garam, 100 grcabai keriting, 5 buah cabai rawit, 7 siung bawang merah.",
+        "cara": "Goreng kentang sampai matang lalu tiriskan, Goreng jengkol, lalu masukkan ke mangkok berisi air kemudian tiriskan lalu geprek, Goreng teri sampai matang, tiriskan, Tumis bumbu halus dan tomat sampai matang, beri garam secukupnya, cip rasa, matikan api. Tuang bahan-bahan yang sudah digoreng ke tumisan cabai. Aduk rata.Sajikan dengan nasi hangat."
+    },
+    {
+        "id": 10,
+        "judul": "Tongkol Jontor",
+        "bahan": "Tongkol (goreng sebentar), 2 cm jahe, 2 lembar daun salam, 2 lembar daun bawang, garam, gula, kaldu bubuk, air secangkir, 10 siung bawang merah, 8 iung bawang putih, 10 cabai merah besar, 10 cabai merah keriting, 30 cabai rawit merah, 1 buah tomat.",
+        "cara": "Tumis bumbu halus, jahe, daun bawang, daun salam sampai wangi. Setelah itu bumbui dengan garam, gula, dan kaldu bubuk. Tes rasa. Setelah bumbu dirasa pas, masukkan tongkol dan air secangkir. Aduk rata. Masak sampai air surut dan bumbu meresap. Angkat dan sajikan."
+    }
+]
